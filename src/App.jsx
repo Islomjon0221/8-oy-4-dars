@@ -56,7 +56,7 @@ function App() {
           </button>
         </div>
         <div className="mt-20">
-          <div className="m-3 flex h-72 w-72 items-center text-blue-500 text-7xl justify-center rounded-full bg-blue-50 border-4 border-blue-200 hover:bg-blue-100">
+          <div className="m-3 flex h-72 w-72 items-center text-blue-500 text-7xl justify-center rounded-full bg-blue-50 border-4 border-blue-200 transition-all hover:bg-blue-100">
             <span>{minutes}</span>
             <span>:</span>
             <span>{seconds}</span>
