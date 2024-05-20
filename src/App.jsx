@@ -45,7 +45,7 @@ function App() {
           Why don't you take a challenge😏
         </h1>
         <div className="gap-14 flex items-center text-center">
-          <button className="text-blue-600 font-bold transition-all hover:bg-red-50 p-2 rounded-lg">
+          <button className="text-blue-600 font-bold transition-all hover:bg-blue-50 p-2 rounded-lg">
             Pomodoro <span className="font-extrabold text-blue-600">0</span>
           </button>
           <button className="text-green-700 font-bold transition-all hover:bg-green-50 p-2 rounded-lg">
